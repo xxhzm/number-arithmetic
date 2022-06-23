@@ -1,24 +1,11 @@
 # number-arithmetic
 
-## Project setup
-```
-npm install
-```
+这是一个可以自动生成有理数加减乘除混合运算的仓库
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 使用说明
 
-### Compiles and minifies for production
-```
-npm run build
-```
+git clone https://github.com/xxhzm/number-arithmetic.git
 
-### Lints and fixes files
-```
-npm run lint
-```
+cd number-arithmetic/dist/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+start index.html
